@@ -1,0 +1,9 @@
+PKG alcotest batteries
+
+S .
+B _build
+
+S /home/hongxu/.opam/system/build/alcotest.0.4.10/_build
+B /home/hongxu/.opam/system/build/alcotest.0.4.10/_build
+S /home/hongxu/.opam/system/build/alcotest.0.4.10/_build/lib
+B /home/hongxu/.opam/system/build/alcotest.0.4.10/_build/lib

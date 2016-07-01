@@ -1,0 +1,2 @@
+true: package(alcotest, batteries)
+true: thread,debug,annot,bin_annot

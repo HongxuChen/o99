@@ -1,0 +1,6 @@
+Name: o99
+Synopsis: my OCaml ninety-nine solutions
+Homepage: https://ocaml.org/learn/tutorials/99problems.html
+OASISFormat: 0.4
+BuildTools: ocamlbuild
+Plugins: META (0.4), DevFiles (0.4)
